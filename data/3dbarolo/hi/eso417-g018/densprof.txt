@@ -1,0 +1,26 @@
+# ELLPROF results for eso417-g018
+#
+# Map units: unit = JY*KM/S
+# Pixel area: 49 arcs2
+#
+# Columns 2-6  : ring stats (sum, mean, median, standard deviation and median absolute deviation from the median).
+# Column  7    : number of valid pixels within the ring.
+# Columns 8-10 : surface density, its error and face-on surface density (inclination corrected).
+# Columns 11-13 (ONLY FOR HI DATA!): face-on (inclination corrected) number surface density and mass surface densities with two different techniques.
+#
+#    RADIUS         SUM        MEAN      MEDIAN      STDDEV         MAD   NPIX     SURFDENS       ERR_SD  SURFDENS_FO SURFDENS_FO   MSURFDENS  MSURFDENS2 
+#    arcsec        unit        unit        unit        unit        unit      #   unit/arcs2   unit/arcs2   unit/arcs2    1E20/cm2    Msun/pc2    Msun/pc2 
+#
+      7.000   3.472e-01   5.786e-02   5.761e-02   1.742e-03   1.585e-03      6    1.181e-03    3.555e-05    5.072e-04   6.359e+00   5.093e+00   5.054e+00 
+     21.000   8.467e-01   5.839e-02   5.862e-02   2.541e-03   2.263e-03     14    1.192e-03    5.186e-05    5.119e-04   6.417e+00   5.140e+00   5.101e+00 
+     35.000   1.662e+00   5.832e-02   5.932e-02   2.757e-03   1.879e-03     28    1.190e-03    5.627e-05    5.113e-04   6.409e+00   5.134e+00   5.095e+00 
+     49.000   2.131e+00   5.683e-02   5.771e-02   2.953e-03   2.144e-03     37    1.160e-03    6.026e-05    4.982e-04   6.245e+00   5.002e+00   4.964e+00 
+     63.000   2.607e+00   5.321e-02   5.341e-02   3.685e-03   3.303e-03     49    1.086e-03    7.520e-05    4.665e-04   5.848e+00   4.684e+00   4.648e+00 
+     77.000   2.754e+00   4.749e-02   4.794e-02   5.540e-03   4.073e-03     58    9.691e-04    1.131e-04    4.163e-04   5.219e+00   4.180e+00   4.148e+00 
+     91.000   2.858e+00   3.998e-02   4.200e-02   7.978e-03   5.260e-03     71    8.159e-04    1.628e-04    3.505e-04   4.393e+00   3.519e+00   3.492e+00 
+    105.000   2.545e+00   3.143e-02   3.565e-02   9.784e-03   6.128e-03     81    6.413e-04    1.997e-04    2.755e-04   3.454e+00   2.766e+00   2.745e+00 
+    119.000   2.123e+00   2.320e-02   2.716e-02   1.029e-02   7.555e-03     91    4.735e-04    2.100e-04    2.034e-04   2.550e+00   2.042e+00   2.027e+00 
+    133.000   1.666e+00   1.666e-02   1.895e-02   9.279e-03   8.188e-03    100    3.400e-04    1.894e-04    1.461e-04   1.831e+00   1.466e+00   1.455e+00 
+    147.000   1.323e+00   1.130e-02   1.205e-02   7.442e-03   7.332e-03    117    2.307e-04    1.519e-04    9.909e-05   1.242e+00   9.950e-01   9.874e-01 
+    161.000   9.266e-01   7.503e-03   7.491e-03   5.586e-03   5.222e-03    123    1.531e-04    1.140e-04    6.578e-05   8.246e-01   6.604e-01   6.554e-01 
+    175.000   6.463e-01   4.915e-03   4.775e-03   3.849e-03   3.148e-03    131    1.003e-04    7.854e-05    4.308e-05   5.401e-01   4.326e-01   4.293e-01 

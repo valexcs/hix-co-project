@@ -1,0 +1,22 @@
+# ELLPROF results for eso055-g013
+#
+# Map units: unit = JY*KM/S
+# Pixel area: 49 arcs2
+#
+# Columns 2-6  : ring stats (sum, mean, median, standard deviation and median absolute deviation from the median).
+# Column  7    : number of valid pixels within the ring.
+# Columns 8-10 : surface density, its error and face-on surface density (inclination corrected).
+# Columns 11-13 (ONLY FOR HI DATA!): face-on (inclination corrected) number surface density and mass surface densities with two different techniques.
+#
+#    RADIUS         SUM        MEAN      MEDIAN      STDDEV         MAD   NPIX     SURFDENS       ERR_SD  SURFDENS_FO SURFDENS_FO   MSURFDENS  MSURFDENS2 
+#    arcsec        unit        unit        unit        unit        unit      #   unit/arcs2   unit/arcs2   unit/arcs2    1E20/cm2    Msun/pc2    Msun/pc2 
+#
+      5.200   1.962e-01   2.803e-02   2.844e-02   1.020e-03   9.603e-04      7    5.721e-04    2.082e-05    5.093e-04   6.385e+00   5.114e+00   5.075e+00 
+     15.600   4.847e-01   2.693e-02   2.725e-02   1.324e-03   1.149e-03     18    5.495e-04    2.702e-05    4.892e-04   6.133e+00   4.912e+00   4.875e+00 
+     26.000   7.661e-01   2.471e-02   2.479e-02   1.331e-03   9.427e-04     31    5.044e-04    2.716e-05    4.490e-04   5.629e+00   4.508e+00   4.474e+00 
+     36.400   8.744e-01   2.133e-02   2.113e-02   1.710e-03   1.207e-03     41    4.353e-04    3.490e-05    3.875e-04   4.857e+00   3.891e+00   3.861e+00 
+     46.800   9.796e-01   1.704e-02   1.737e-02   2.048e-03   1.278e-03     57    3.477e-04    4.179e-05    3.095e-04   3.880e+00   3.108e+00   3.084e+00 
+     57.200   8.801e-01   1.294e-02   1.287e-02   2.576e-03   1.822e-03     68    2.641e-04    5.258e-05    2.351e-04   2.948e+00   2.361e+00   2.343e+00 
+     67.600   7.281e-01   9.102e-03   8.907e-03   2.748e-03   1.874e-03     80    1.858e-04    5.608e-05    1.654e-04   2.073e+00   1.660e+00   1.648e+00 
+     78.000   5.365e-01   5.738e-03   5.606e-03   2.551e-03   1.930e-03     93    1.171e-04    5.206e-05    1.042e-04   1.307e+00   1.047e+00   1.039e+00 
+     88.400   3.511e-01   3.344e-03   3.369e-03   1.987e-03   1.670e-03    105    6.825e-05    4.055e-05    6.076e-05   7.617e-01   6.100e-01   6.054e-01 

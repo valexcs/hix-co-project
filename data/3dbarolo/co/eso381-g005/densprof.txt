@@ -1,0 +1,21 @@
+# ELLPROF results for eso381-5
+#
+# Map units: unit = JY*KM/S
+# Pixel area: 2.89 arcs2
+#
+# Columns 2-6  : ring stats (sum, mean, median, standard deviation and median absolute deviation from the median).
+# Column  7    : number of valid pixels within the ring.
+# Columns 8-10 : surface density, its error and face-on surface density (inclination corrected).
+# Columns 11-13 (ONLY FOR HI DATA!): face-on (inclination corrected) number surface density and mass surface densities with two different techniques.
+#
+#    RADIUS         SUM        MEAN      MEDIAN      STDDEV         MAD   NPIX     SURFDENS       ERR_SD  SURFDENS_FO SURFDENS_FO   MSURFDENS  MSURFDENS2 
+#    arcsec        unit        unit        unit        unit        unit      #   unit/arcs2   unit/arcs2   unit/arcs2    1E20/cm2    Msun/pc2    Msun/pc2 
+#
+      1.050   4.641e-01   1.547e-01   1.555e-01   2.614e-03   1.013e-03      3    5.353e-02    9.045e-04    3.449e-02   4.323e+02   3.463e+02   3.436e+02 
+      3.150   1.315e+00   1.422e-01   1.430e-01   6.876e-03   5.109e-03      9    4.919e-02    2.379e-03    3.170e-02   3.973e+02   3.182e+02   3.158e+02 
+      5.250   1.870e+00   1.206e-01   1.200e-01   1.133e-02   1.030e-02     15    4.174e-02    3.920e-03    2.690e-02   3.372e+02   2.701e+02   2.680e+02 
+      7.350   2.072e+00   9.313e-02   9.293e-02   1.450e-02   1.140e-02     22    3.223e-02    5.018e-03    2.076e-02   2.603e+02   2.085e+02   2.069e+02 
+      9.450   1.875e+00   6.756e-02   6.661e-02   1.548e-02   1.204e-02     27    2.338e-02    5.355e-03    1.506e-02   1.888e+02   1.512e+02   1.501e+02 
+     11.550   1.492e+00   4.453e-02   4.458e-02   1.457e-02   1.260e-02     33    1.541e-02    5.043e-03    9.928e-03   1.245e+02   9.968e+01   9.893e+01 
+     13.650   1.201e+00   2.930e-02   2.636e-02   1.315e-02   1.213e-02     41    1.014e-02    4.549e-03    6.532e-03   8.188e+01   6.558e+01   6.509e+01 
+     15.750   8.532e-01   1.835e-02   1.790e-02   1.261e-02   8.295e-03     46    6.349e-03    4.364e-03    4.091e-03   5.128e+01   4.107e+01   4.076e+01 

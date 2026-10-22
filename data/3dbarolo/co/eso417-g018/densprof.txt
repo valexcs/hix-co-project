@@ -1,0 +1,19 @@
+# ELLPROF results for eso417-18
+#
+# Map units: unit = JY*KM/S
+# Pixel area: 2.25 arcs2
+#
+# Columns 2-6  : ring stats (sum, mean, median, standard deviation and median absolute deviation from the median).
+# Column  7    : number of valid pixels within the ring.
+# Columns 8-10 : surface density, its error and face-on surface density (inclination corrected).
+# Columns 11-13 (ONLY FOR HI DATA!): face-on (inclination corrected) number surface density and mass surface densities with two different techniques.
+#
+#    RADIUS         SUM        MEAN      MEDIAN      STDDEV         MAD   NPIX     SURFDENS       ERR_SD  SURFDENS_FO SURFDENS_FO   MSURFDENS  MSURFDENS2 
+#    arcsec        unit        unit        unit        unit        unit      #   unit/arcs2   unit/arcs2   unit/arcs2    1E20/cm2    Msun/pc2    Msun/pc2 
+#
+      1.500   4.259e-01   8.113e-02   8.343e-02   6.818e-03   3.135e-03      5    3.606e-02    3.030e-03    1.625e-02   2.038e+02   1.632e+02   1.620e+02 
+      4.500   1.210e+00   6.629e-02   6.947e-02   1.346e-02   1.246e-02     18    2.946e-02    5.983e-03    1.342e-02   1.683e+02   1.348e+02   1.337e+02 
+      7.500   1.439e+00   4.921e-02   4.651e-02   1.689e-02   1.356e-02     29    2.187e-02    7.507e-03    1.007e-02   1.262e+02   1.011e+02   1.003e+02 
+     10.500   1.431e+00   3.469e-02   2.879e-02   1.741e-02   1.080e-02     41    1.542e-02    7.739e-03    7.172e-03   8.991e+01   7.201e+01   7.146e+01 
+     13.500   1.369e+00   2.546e-02   2.247e-02   1.496e-02   9.476e-03     53    1.132e-02    6.650e-03    5.317e-03   6.665e+01   5.339e+01   5.298e+01 
+     16.500   1.515e+00   2.279e-02   2.231e-02   1.099e-02   7.370e-03     66    1.013e-02    4.882e-03    4.806e-03   6.025e+01   4.826e+01   4.789e+01 
