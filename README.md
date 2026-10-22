@@ -9,7 +9,7 @@ Data and analysis repository for:
 
 ## Overview
 
-Galaxies with extreme neutral hydrogen reservoirs ($\mathrm{H}\,\textsc{i}$-eXtreme / $\mathrm{H}\,\textsc{ix}$) paradoxically exhibit normal or low star formation rates. This project investigates the molecular gas content and kinematic properties of five $\mathrm{H}\,\textsc{ix}$ survey galaxies using ALMA $\mathrm{CO}(1\text{--}0)$ rotational transition observations combined with ATCA $\mathrm{H}\,\textsc{i}$ data:
+Galaxies with extreme neutral hydrogen reservoirs ($\mathrm{H}\,\text{\scriptsize I}$-eXtreme / $\mathrm{H}\,\text{\scriptsize IX}$) paradoxically exhibit normal or low star formation rates. This project investigates the molecular gas content and kinematic properties of five $\mathrm{H}\,\text{\scriptsize IX}$ survey galaxies using ALMA $\mathrm{CO}(1-0)$ rotational transition observations combined with ATCA $\mathrm{H}\,\text{\scriptsize I}$ data:
 - **ESO055-G013**
 - **ESO208-G026**
 - **ESO378-G003**
@@ -32,7 +32,7 @@ Galaxies with extreme neutral hydrogen reservoirs ($\mathrm{H}\,\textsc{i}$-eXtr
         │   ├── eso378_g003/
         │   ├── eso381_g005/
         │   └── eso417_g018/
-        └── hi/                  # 3DBarolo modeling for ATCA H I data
+        └── hi/                  # 3DBarolo modeling for ATCA HI data
             ├── eso055_g013/
             ├── eso208_g026/
             ├── eso378_g003/
@@ -51,8 +51,8 @@ Each galaxy subdirectory under `data/3dbarolo/` contains:
 
 ## Data Sources
 
-- **ALMA $\mathrm{CO}(1\text{--}0)$ data:** Raw and pipeline-calibrated data cubes are available in the [ALMA Science Archive](https://almascience.nrao.edu/aq) under Project Code: `2019.2.00169.S`.
-- **ATCA $\mathrm{H\,I}$ data:** Primary $\mathrm{H\,I}$ data cubes and catalogues from the $\mathrm{H}\,\textsc{ix}$ survey (Lutz et al. 2017, 2018) are accessible via the online [CDS VizieR database](https://vizier.cds.unistra.fr/viz-bin/VizieR).
+- **ALMA $\mathrm{CO}(1-0)$ data:** Raw and pipeline-calibrated data cubes are available in the [ALMA Science Archive](https://almascience.nrao.edu/aq) under Project Code: `2019.2.00169.S`.
+- **ATCA $\mathrm{H}\,\text{\scriptsize I}$ data:** Primary $\mathrm{H}\,\text{\scriptsize I}$ data cubes and catalogues from the $\mathrm{H}\,\text{\scriptsize IX}$ survey (Lutz et al. 2017, 2018) are accessible via the online [CDS VizieR database](https://vizier.cds.unistra.fr/viz-bin/VizieR).
 
 
 ---
