@@ -9,7 +9,7 @@ Data and analysis repository for:
 
 ## Overview
 
-Galaxies with extreme neutral hydrogen reservoirs ($\mathrm{H}\,\text{\scriptsize I}$-eXtreme / $\mathrm{H}\,\text{\scriptsize IX}$) paradoxically exhibit normal or low star formation rates. This project investigates the molecular gas content and kinematic properties of five $\mathrm{H}\,\text{\scriptsize IX}$ survey galaxies using ALMA $\mathrm{CO}(1-0)$ rotational transition observations combined with ATCA $\mathrm{H}\,\text{\scriptsize I}$ data:
+Galaxies with extreme neutral hydrogen reservoirs ($\mathrm{H~\scriptstyle I}$-eXtreme / $\mathrm{H~\scriptstyle IX}$) paradoxically exhibit normal or low star formation rates. This project investigates the molecular gas content and kinematic properties of five $\mathrm{H~\scriptstyle IX}$ survey galaxies using ALMA $\mathrm{CO}(1-0)$ rotational transition observations combined with ATCA $\mathrm{H~\scriptstyle I}$ data:
 - **ESO055-G013**
 - **ESO208-G026**
 - **ESO378-G003**
@@ -52,7 +52,7 @@ Each galaxy subdirectory under `data/3dbarolo/` contains:
 ## Data Sources
 
 - **ALMA $\mathrm{CO}(1-0)$ data:** Raw and pipeline-calibrated data cubes are available in the [ALMA Science Archive](https://almascience.nrao.edu/aq) under Project Code: `2019.2.00169.S`.
-- **ATCA $\mathrm{H}\,\text{\scriptsize I}$ data:** Primary $\mathrm{H}\,\text{\scriptsize I}$ data cubes and catalogues from the $\mathrm{H}\,\text{\scriptsize IX}$ survey (Lutz et al. 2017, 2018) are accessible via the online [CDS VizieR database](https://vizier.cds.unistra.fr/viz-bin/VizieR).
+- **ATCA $\mathrm{H~\scriptstyle I}$ data:** Primary $\mathrm{H~\scriptstyle I}$ data cubes and catalogues from the $\mathrm{H~\scriptstyle IX}$ survey (Lutz et al. 2017, 2018) are accessible via the online [CDS VizieR database](https://vizier.cds.unistra.fr/viz-bin/VizieR).
 
 
 ---
